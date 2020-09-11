@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ url_for('static', filename='styles.css') }}"
+    />
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="brandname">
+          <h1 style="color: black">
+            <p style="text-align: center">Credit Card Fraud Detection Results</p>
+          </h1>
+        </div>
+        <!-- <h2><p style="text-align: center">Detection</p></h2> -->
+      </div>
+    </header>
+    <p style="color: blue;">
+      <b>Validating provided transaction...</b>
+    </p>
+    <div class="results">
+      {% if prediction == 1 %}
+      <h1 style="color: blue">
+        <p style="text-align: center">
+          According to our model, the provided transaction is not a Fraud
+          transaction.
+        </p>
+      </h1>
+      {% elif prediction == -1%}
+      <h2 style="color: red">
+        <p style="text-align: center">
+          According to our model, this transaction is a Fraud transaction.
+        </p>
+      </h2>
+      {% endif %}
+    </div>
+  </body>
+</html>
