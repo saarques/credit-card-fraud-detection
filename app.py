@@ -16,7 +16,7 @@ def home():
 def predict():
 	if request.method == 'POST':
 		me = request.form['message']
-		message = [float(x) for x in me.split("")]
+		message = [float(x) for x in me.split()]
 		vect = np.array(message).reshape(1, -1)
 		my_prediction = clf.predict(vect)
 	return render_template('result.html',prediction = my_prediction)
