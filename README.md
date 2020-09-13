@@ -5,7 +5,8 @@ Since the data for this is not available in real form, and is availbale only in 
 
 ## Specification about what we used and achieved.
 
-
+We used a sci-kit learn Logistic Regression model with balanced class weight. By using this strategy, we achieved 
+Accuracy:- 0.976 and Recall:- 0.896
 
 ## Test Data for Fraud Transaction:
 
