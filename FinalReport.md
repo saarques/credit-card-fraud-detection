@@ -1,5 +1,6 @@
 # Credit Card Fraud Detection (Project Report)
 
+***
 List of items:
 - Introduction to CCFD
 - Model Training
@@ -8,7 +9,7 @@ List of items:
 - References
 
 ## Introduction
-
+***
 In today’s world, we are on the express train to a cashless society. According to the World Payments Report, in 2016 total non-cash transactions increased by 10.1% from 2015 for a total of 482.6 billion transactions! That’s huge! Also, it’s expected that in future years there will be a steady growth of non-cash transactions as shown below:
 
 ![Image 1](https://miro.medium.com/max/700/1*Wh_2z7yZFliI7aOJW26UNg.jpeg)
@@ -24,6 +25,7 @@ So in this project, what we have tried is to create a Web App for the detection 
 In the following sections, we will be explaining about the creation and importance of both a good Machine Learning model and the Web App.
 
 ## Model Training
+***
 
 ### Understanding the data and related constraints
 
@@ -70,6 +72,7 @@ Let's now see the inference results we got after training by using the following
 ![Image 4](https://i.imgur.com/kDLjtao.png)
 
 ## Creating Web App
+***
 
 ### Brief Introduction to a Web App
 
@@ -126,6 +129,7 @@ And if our transaction is not fraud, it will look something like the following:
 ![Image 9](https://i.imgur.com/v9f3iHF.png)
 
 ## Conclusion
+***
 
 Credit Card is a great tool to pay money easily, but as with all the other monetary payment tools, reliability is a issue here too as it is subjected to breach and other frauds. To encounter this problem, a solution is needed to identify the patterns in the transactions and identify the ones which are fraud, so that finding such transactions beforehand in future will be very easy. 
 
@@ -133,6 +137,7 @@ Machine Learning is a great tool to do this work since Machine Learning helps us
 
 
 ## References
+***
 
 [Web App](https://credit-card-fraud-detect-ion.herokuapp.com/)
 
