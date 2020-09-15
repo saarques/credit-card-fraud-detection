@@ -8,6 +8,8 @@ Since the data for credit card fraud is not available in real form(due to confid
 
 ## Specification about what we used and achieved.
 
+***************
+
 ### Model Training
 
 - Architecture
@@ -16,6 +18,8 @@ Since the data for credit card fraud is not available in real form(due to confid
 - Inference Results
     - Accuracy: 0.976
     - Recall: 0.896
+
+***************
 
 ### Web App Production
 
@@ -30,15 +34,19 @@ Since the data for credit card fraud is not available in real form(due to confid
 - App
     - Main file which will run our Web App.
 
+***************
+
 ## Test Data for Fraud Transaction:
 
 Testing data for fraud transaction can be found in the ***"fraud_values.csv"*** file. 
+
+***************
 
 ## Test Data for Valid Transaction:
 
 Testing data for a Valid transaction can be found in the ***"valid_values.csv"*** file.
 
-****************************
+***************
 
 ## Web App
 
