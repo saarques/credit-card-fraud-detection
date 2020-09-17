@@ -20,15 +20,7 @@ header h1{
 	font-size: 1.8em;
 }
 
-.ml-container{
-	font-size: 1.4em;
-}
-
-.ml-container textarea{
-	width: 100%;
-}
-
-.ml-container form .btn-info{
+.btn-info{
 	border: 1.5px solid black;
 	padding: 10px 15px;
 	margin: 15px;
@@ -36,7 +28,15 @@ header h1{
 	cursor: pointer;
 }
 
-.ml-container form .btn-info:hover{
+.btn-info:hover{
 	background-color: transparent;
 	box-shadow: 0 0 10px #eee;
+}
+
+.ml-container{
+	font-size: 1.4em;
+}
+
+.ml-container textarea{
+	width: 100%;
 }
