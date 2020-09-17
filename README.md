@@ -36,6 +36,12 @@ Since the data for credit card fraud is not available in real form(due to confid
 
 ***************
 
+## Report
+
+A thorough report on what we did can be found in *_FinalReport.md_* or *_FinalReport.pdf_* file.
+
+****
+
 ## Test Data for Fraud Transaction:
 
 Testing data for fraud transaction can be found in the ***"fraud_values.csv"*** file. 
