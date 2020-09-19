@@ -63,3 +63,6 @@ To Contact Us:
     - [Kaggle](https://www.kaggle.com/sarques)    
     - [LinkedIn](https://www.linkedin.com/in/gajendra-saraswat-221102165/)
     - [Twitter](https://twitter.com/Saarques)
+- Ravikant Vijayvargiya
+    - [Kaggle](https://www.kaggle.com/hungrywolf)
+    - [LinkedIn](https://www.linkedin.com/in/ravikant-vijayvargiya/)
