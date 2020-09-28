@@ -66,3 +66,4 @@ To Contact Us:
 - Ravikant Vijayvargiya
     - [Kaggle](https://www.kaggle.com/hungrywolf)
     - [LinkedIn](https://www.linkedin.com/in/ravikant-vijayvargiya/)
+    - [Kernel](https://www.kaggle.com/hungrywolf/different-methods)
